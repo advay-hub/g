@@ -1,8 +1,8 @@
-#  store student name 
+#  store person name 
 fname = input ("enter your first name ")
 lname = input ("enter your second name ")
 
-# store students mark 
+# store inputs
 sub1  = input ("enter your  salary ")
 sub2  = input ("enter your tax ")
 sub3  = input ("enter your expensence ")
